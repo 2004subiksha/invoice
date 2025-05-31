@@ -1,0 +1,46 @@
+{
+    "Invoice Number": {
+        "value": "37425",
+        "confidence": 95
+    },
+    "Date": {
+        "value": "Oct 24 2012",
+        "confidence": 96
+    },
+    "Customer": {
+        "value": "Ship To: .",
+        "confidence": 96
+    },
+    "Ship Mode": {
+        "value": "First Class",
+        "confidence": 96
+    },
+    "Balance Due": {
+        "value": "160.94",
+        "confidence": 0
+    },
+    "Subtotal": {
+        "value": "197.63",
+        "confidence": 0
+    },
+    "Discount": {
+        "value": "39.53",
+        "confidence": 0
+    },
+    "Shipping": {
+        "value": "2.84",
+        "confidence": 0
+    },
+    "Total": {
+        "value": "160.94",
+        "confidence": 0
+    },
+    "Order ID": {
+        "value": "US-2012-AH10030140-41206",
+        "confidence": 69
+    },
+    "Final Total": {
+        "value": "158.1",
+        "confidence": 100
+    }
+}

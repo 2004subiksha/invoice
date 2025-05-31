@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+pytesseract
+opencv-python
+Pillow
+pandas
+openpyxl
+streamlit
